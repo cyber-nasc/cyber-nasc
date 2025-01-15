@@ -25,3 +25,45 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <h4>Discord and Linkedien is coming soon!</h4>
 </div>
+
+### 🤖 Estatísticas
+## Olá sou Tiago Nascimento 👋
+
+
+**cyber-nasc/cyber-nasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 🔭 Hoje em dia trabalho com Cybersegurança
+- 📫 Contate-me no email: tiagofagundes3896@gmail.com
+- ⚡ Aprendendo Ruby
+<div style="display: inline_block"><br>
+  <img align="center" alt="ruby" height="30" width="40" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4">
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://img.icons8.com/?size=512&id=40670&format=png">
+</div>
+  
+  ##
+ 
+
+
+### 🤖 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
