@@ -8,7 +8,7 @@
 - 📫 Contate-me no email: tiagofagundes3896@gmail.com
 - ⚡ Aprendendo Ruby
 <div style="display: inline_block"><br>
-  <img align="center" alt="ruby" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsy9p04KVHJZQZ1FQaMD1L60x3FDKY9RU4B-ivmd9I-sh1MGVn6vPJfN72sP-b2bgDGO8&usqp=CAU">
+  <img align="center" alt="ruby" height="30" width="40" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
