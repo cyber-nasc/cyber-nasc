@@ -4,7 +4,7 @@
 **cyber-nasc/cyber-nasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 Hoje em dia trabalho com Cybersegurança
+- 🔭 Hoje em dia estudo Cybersegurança
 - 📫 Contate-me no email: tiagofagundes3896@gmail.com
 - ⚡ Aprendendo Ruby
 <div style="display: inline_block"><br>
