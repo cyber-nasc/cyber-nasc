@@ -7,6 +7,7 @@
 - 🔭 Hoje em dia estudo Cybersegurança
 - 📫 Contate-me no email: tiagofagundes3896@gmail.com
 - ⚡ Aprendendo Ruby
+- <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=I+Love+Security;I+Love+Programming">
 <div style="display: inline_block"><br>
   <img align="center" alt="ruby" height="30" width="40" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
